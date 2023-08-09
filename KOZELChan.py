@@ -28,28 +28,28 @@ except Exception as e:
 	print('[[\x1b[1;92m•\x1b[1;97m] [\x1b[1;96mAlvino_adijaya_xy')
 prox=open('.prox.txt','r').read().splitlines()
 for xd in range(10000):
-	a='Mozilla/5.0 (Linux; Android 13'
+	a='Mozilla/5.0 (Linux; Android 11'
 	b=random.randrange(1, 9)
 	c=random.randrange(1, 9)
-	d='Vivo'
+	d='V2005A'
 	e=random.randrange(100, 9999)
-	f='AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.74'
+	f='AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/'
 	g=random.randrange(1, 9)
 	h=random.randrange(1, 4)
 	i=random.randrange(1, 4)
 	j=random.randrange(1, 4)
-	k='Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/396.1.0.28.104;]'
+	k='Mobile Safari/537.36 VivoBrowser/11.1.12.1'
 	uaku=(f'{a}{b}.{c} {d}{e}{f}{g}.{h}.{i}.{j} {k}')
 	ugen2.append(uaku)
 
 
-	aa='Mozilla/5.0 (Linux; Android 11'
+	aa='Mozilla/5.0 (Linux; Android 10'
 	b=random.choice(['6','7','8','9','10','11','12'])
-	c=' en-us; GT-'
+	c=' IN2019 Build/QKQ1'
 	d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
 	e=random.randrange(1, 999)
 	f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
-	g='AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149'
+	g='AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/'
 	h=random.randrange(73,100)
 	i='0'
 	j=random.randrange(4200,4900)
