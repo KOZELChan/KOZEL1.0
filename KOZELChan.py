@@ -28,37 +28,37 @@ except Exception as e:
 	print('[[\x1b[1;92m•\x1b[1;97m] [\x1b[1;96mAlvino_adijaya_xy')
 prox=open('.prox.txt','r').read().splitlines()
 for xd in range(10000):
-	a='Mozilla/5.0 (Linux; Android 11'
+	a='Mozilla/5.0 (Linux; U; Android'
 	b=random.randrange(1, 9)
 	c=random.randrange(1, 9)
-	d='V2005A'
+	d='en-US; Nokia_XL Build/JZO54K)'
 	e=random.randrange(100, 9999)
-	f='AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/'
+	f='AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/10.8.5.725 U3/0.8.0'
 	g=random.randrange(1, 9)
 	h=random.randrange(1, 4)
 	i=random.randrange(1, 4)
 	j=random.randrange(1, 4)
-	k='Mobile Safari/537.36 VivoBrowser/11.1.12.1'
+	k='Mobile Safari/534.30'
 	uaku=(f'{a}{b}.{c} {d}{e}{f}{g}.{h}.{i}.{j} {k}')
 	ugen2.append(uaku)
 
 
-	aa='Mozilla/5.0 (Linux; Android 11'
+	aa='Mozilla/5.0 (Linux; U; Android'
 	b=random.choice(['6','7','8','9','10','11','12'])
-	c=' Redmi Note 10S'
+	c='en-US; Nokia_XL Build/JZO54K)S'
 	d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
 	e=random.randrange(1, 999)
 	f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
-	g='AppleWebKit/537.43 (KHTML, like Gecko) Chrome/'
+	g='AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/10.10.8.820 U3/0.8.0'
 	h=random.randrange(73,100)
 	i='0'
 	j=random.randrange(4200,4900)
 	k=random.randrange(40,150)
-	l='Mobile Safari/537.36'
+	l='Mobile Safari/534.30'
 	uaku2=f'{aa} {b}; {c}{d}{e}{f}) {g}{h}.{i}.{j}.{k} {l}'
 	ugen.append(uaku2)
 for x in range(10):
-	a='Mozilla/5.0 (Linux; Android 13'
+	a='Mozilla/5.0 (Linux; U; Android'
 	b=random.randrange(100, 9999)
 	c=random.randrange(100, 9999)
 	d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
@@ -66,10 +66,10 @@ for x in range(10):
 	f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
 	g=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
 	h=random.randrange(1, 9)
-	i='AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/101.0.4951.74'
+	i='AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 UCBrowser/10.7.2.645 U3/0.8.0'
 	j=random.randrange(1, 9)
 	k=random.randrange(1, 9)
-	l='Chrome/101.0.4951.74 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/321.0.0.37.119;]'
+	l='Mobile Safari/534.30'
 	uak=f'{a}{b}/{c}{d}{e}{f}{g}{h}{i}{j}.{k} {l}'
 def uaku():
 	try:
